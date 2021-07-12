@@ -1,0 +1,11 @@
+* Variables: La variable la utilizamos para guardar un valor que usaremos mas adelante. (Los usaremos en Funciones para cambiarlas, calcular, ejecutar, etc).
+
+* Strings: Son textos y se definen escribiendo entre comillas.
+
+* Funciones (argumentos, `return`): Una función es un tipo de objeto que nos permite ejecutar codigo.
+Los argumentos son variables que le podemos pasar a nuestra función, una funcion nos permite agregar multiples argumentos.
+El return sirve cuando queremos que la función nos devuelva algo, por ejemplo cuando sumamos y queremos que nos devuelva el resultado de la suma.
+
+* Declaraciones `if`: Sirve para identificar si una declaracion es verdadera (true), si lo es la funcion nos devuelve un true y sino un false.
+
+* Valores booleanos (`true`, `false`): Los booleanos en JS nos sirven para determinar si un valor es verdadero o falso.
