@@ -1,0 +1,7 @@
+for : Es un bucle, evalua expresiones y las vuelve a ejecutar hasta que una de las expresiones sea falsa.
+
+||: Es un operador logico, evalua dos expresiones, si almenos una de las dos es true devolvera true, si las dos son falsas devuelve un false.
+
+&&: Se trata de otro operador logico, evalua las dos expreciones y si ambas son verdaderas devuelve un true, si alguna de las dos es falsa, devuelve un false.
+
+!: El ultimo operador logico, se trata de una negación, es decir que va a retornar el valor booleano contrario al que se le pasa.
