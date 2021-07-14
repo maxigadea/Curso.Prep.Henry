@@ -1,0 +1,1 @@
+arrays : son matrices/arreglos que nos permiten almacenar gran cantidad de datos de cuaquier tipo, ya sean strings, numeros, boleanos,etc.
