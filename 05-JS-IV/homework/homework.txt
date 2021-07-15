@@ -1,0 +1,11 @@
+objetos: contienen mucha informacion sobre una sola cosa, a diferencia de los arrays que se ordenan sus elementos partiendo de 0 (indices) los objetos usan un concepto de pares key:valor.
+
+propiedades: son asociaciones entre key:valor que se almacenan en los objetos.
+
+metodos: así son llamadas las funciones que estan dentro de un objeto.
+
+bucle for in: se utiliza para iterar sobre los elementos del objeto. se utiliza definiendo la variable y usando la palabra clave in con el nombre del objeto.
+
+
+notacion de puntos vs notacion de corchetes:  con la notacion de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave.
+con la notacion de corchetes tenemos que usar una cadena o numero o una variable que tenga una cadena o numero.
